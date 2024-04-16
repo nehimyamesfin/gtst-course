@@ -49,3 +49,12 @@ They are differ in color, piping, command compilation, & some of features.
 	5. Gentoo
 	6. Android
 - Their modification is on **Linux Kernel, Packages (GNU), Packages Manager & Desktop UI**.
+
+## Kali Installation Methods
+1. Main OS / Main Boot
+2. DualBoot / 2 OS in 1 Computer Machine
+3. Live Boot
+4. Cloud Terminals like www.webminal.org
+5. Virtual Machine
+6. WSL / Windows Subsystem for Linux
+7. Termux - Android
